@@ -54,10 +54,6 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>😴 Creater :</b> @UvinduBro  
-
-⭕️<b>🧷 Language :</b> <code>Python3</code>
-
-⭕️<b>🔥 Bot Updates :</b> <a href='https://t.me/UvinduBro_BOTs'> Uvindu Bro BOTs </a> 
+⭕️<b> boss :</b> @featzai
 
 """
